@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Fira+Sans:wght@100&family=Playfair+Display&family=Quintessential&family=Supermercado+One&family=Titillium+Web:wght@200&display=swap');
+#content{
+    max-width: 1600px;
+    margin: 0 auto; 
+}
+nav a{
+    text-align: center;
+    color: black;
+    text-decoration:none;
+    padding: 35px;
+} 
+#hero-msg h1{
+    text-align: center;
+}
+#hero-msg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background {
+    height: 725px;
+    background-color:wheat;
+}
+body {
+    background-color: #2a9d8f; 
+    font-family: Quintessential, Andada Pro, Titillium Web;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1e81b0;
+    font-family: Fira Sans, Andada Pro, Playfair Display;
+}
+nav a:hover {
+    background-color: #f4a261;
+    color: gray;
+}
+.msg{
+    background-color: #e76f51;
+    line-height: 1.5em;
+    padding: 35px;
+}
+.msg h2{
+    color: black;
+}
+footer{
+    background-color: black;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+.book{
+    background-color: #f4a261 ;
+    color:black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.join{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.book:hover{
+    background-color: goldenrod;
+    color:yellowgreen;
+}
+.join:hover{
+    background-color: palegoldenrod;
+    color:black;
+}
+.home-title{
+    color:chocolate;
+    font-family: Supermercado One, Playfair Display, ;
+    font-size: 2em;
+    margin-top: 10px;
+}
+h4{
+    color:black;
+}
+.msg p{
+    color:blueviolet;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+footer h3{
+    color:white;
+}
+footer a{
+    color:white;
+    text-decoration: none;
+}
+footer a:hover{
+    color:greenyellow;
+}
+.logo class{
+    width:80px;
+}
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+footer h3 a:hover{
+    text-decoration: underline;
+}
+#hero-img {
+    width: 100%;
+}
+h2{
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer.social img{
+    padding-top: 15px;
+}
+.rivers-card{
+    margin: 200px 0;
+}
+.camping-card{
+    margin: 200px 0;
+}
+.rapids-card{
+    margin: 200px 0;
+}  
+.card-img{
+    border: 10px solid #1e81b0;
+}
+main section img{
+    box-sizing: border-box;
+}
+.mountains{
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
