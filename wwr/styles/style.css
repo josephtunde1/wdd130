@@ -145,7 +145,7 @@ h4 {
 }
 
 .msg {
-    background-color: #98ECFFff;
+    background-color: white;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -223,7 +223,7 @@ footer .social img  {
 
 
 .card-img {
-    border: 10px solid peru;
+    border: 10px solid white;
     width: 100%;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
