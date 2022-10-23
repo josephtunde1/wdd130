@@ -1,4 +1,4 @@
-/* CSS - Name: "positionstyles.css" */
+/* CSS - Name: "positioning.css" */
 /* Activity 1 styles */
 .content1 {
     /* This is the parent of the activity 1 boxes. */
@@ -159,8 +159,6 @@
     background-color: green;
     float: left;
   
-   
-   
   } 
   
   .yellow5 {
