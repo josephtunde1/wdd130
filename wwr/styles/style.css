@@ -123,8 +123,6 @@ nav a:hover {
 }
 
 
-
-
 footer {
     background-color: #098DC8ff;
     padding: 25px 50px;
@@ -221,7 +219,6 @@ footer .social img  {
    
 }
 
-
 .card-img {
     border: 10px solid white;
     width: 100%;
@@ -233,7 +230,6 @@ footer .social img  {
     opacity: .6;
     transform: scale(1.1);
 }
-
 
 
 section img {
@@ -254,8 +250,6 @@ section img {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
-
-
 
 form {
     /* Center the form on the page */
@@ -337,16 +331,6 @@ form {
 .moveDown {
     margin-top: 3em;
 }
-
-
-
-
-
-
-
-
-
-
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
