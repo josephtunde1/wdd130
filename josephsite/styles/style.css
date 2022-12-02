@@ -1,6 +1,7 @@
-h1, h2, h3, h4 {
-    font-family: 'Macondo', cursive;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
 }
+p, span, button, a, li {font-family: 'Roboto', sans-serif; }
 
 /* Dropdown Button */
 .dropbtn {
@@ -60,7 +61,7 @@ nav {
 
   nav a {
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: #D4AC0D (1, 1, 1);
     text-decoration: none;
     padding: 35px;
 }
@@ -97,8 +98,6 @@ nav {
     width: 100%;
 }
 
-
-
 .button-box {
     text-align: center;
 }
@@ -130,8 +129,8 @@ header {
 }
 
 nav a:hover {
-    background-color: rgb(12, 91, 101);
-    color: antiquewhite;
+    background-color: #396E94 (12, 91, 101);
+    color: #396E94;
 }
 
 .book {
